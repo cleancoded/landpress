@@ -1,0 +1,34 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">portfolio</custom-type>
+    <custom-type translate="0">y-post-types</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="0">portfolio-cat</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="ignore">_wp_page_template</custom-field>
+    <custom-field action="ignore">hc-editor-mode</custom-field>
+    <custom-field action="ignore">slide_template</custom-field>
+    <custom-field action="ignore">_wp_old_slug</custom-field>
+    <custom-field action="ignore">_menu_item_type</custom-field>
+    <custom-field action="ignore">_menu_item_menu_item_parent</custom-field>
+    <custom-field action="ignore">_menu_item_object_id</custom-field>
+    <custom-field action="ignore">_menu_item_object</custom-field>
+    <custom-field action="ignore">_menu_item_target</custom-field>
+    <custom-field action="ignore">_menu_item_classes</custom-field>
+    <custom-field action="ignore">_menu_item_xfn</custom-field>
+    <custom-field action="ignore">_menu_item_url</custom-field>
+    <custom-field action="ignore">_wp_attached_file</custom-field>
+    <custom-field action="ignore">_wp_attachment_metadata</custom-field>
+    <custom-field action="ignore">_edit_lock</custom-field>
+    <custom-field action="ignore">_edit_last</custom-field>
+    <custom-field action="ignore">_wp_trash_meta_status</custom-field>
+    <custom-field action="ignore">_wp_trash_meta_time</custom-field>
+    <custom-field action="ignore">_wp_desired_post_slug</custom-field>
+    <custom-field action="ignore">_wp_trash_meta_comments_status</custom-field>
+    <custom-field action="ignore">_menu_item_orphaned</custom-field>
+    <custom-field action="ignore">y-theme-sidebar</custom-field>
+    <custom-field action="ignore">elon-sidebar</custom-field>
+  </custom-fields>
+</wpml-config>
